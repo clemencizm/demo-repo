@@ -7,7 +7,9 @@ Dans le contexte du Bootcamp de *wed developement full stack* 1 avril - 15 juin 
 
 ## Subheader
 
-Now I'm on sublime text.
+Je suis maintenant sur l'éditeur de texte Sublime Text.
+On peut aussi utiliser visual studio code
+
 
 ##  Nouvelle *branch*
 
